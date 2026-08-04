@@ -19,7 +19,7 @@ Experimental implementation of an autonomous AI agent architecture, exploring si
 `Python` `Jupyter Notebook` `AI Agents`
 
 **[fyp](https://github.com/AadarshaPokharel/fyp)**
-Final year capstone project — [It's an IOT based independent vehicle to vehicle communication for blind curves. ].
+Final year capstone project: It's an IOT based independent vehicle to vehicle communication for blind curves.
 `JavaScript`
 
 ## Technical Skills

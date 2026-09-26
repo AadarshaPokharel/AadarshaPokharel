@@ -1,31 +1,17 @@
-<div align="center">
+<!-- <div align="center">
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full-Stack+Software+Engineer;React+Native+%C2%B7+FastAPI+%C2%B7+TypeScript;Building+AI+Agents+%26+Fintech+Tools)
 
-</div>
+</div> -->
 
 # Aadarsha Pokharel
 
 Full-Stack Software Engineer with a focus on financial technology and AI-driven systems. Currently completing my final year in Computer Science, building production-grade applications across mobile, backend, and applied AI.
 
-## Featured Projects
-
-**[money-flow](https://github.com/AadarshaPokharel/money-flow)**
-A full-stack personal finance management platform. Includes a React Native (Expo) mobile client, FastAPI backend, PostgreSQL data layer, Clerk-based authentication, transaction tracking, budgeting with overspend alerts, savings goals, and automated PDF reporting.
-`React Native` `FastAPI` `PostgreSQL` `TypeScript`
-
-**[Single-AI-Agent-System](https://github.com/AadarshaPokharel/Single-AI-Agent-System)**
-Experimental implementation of an autonomous AI agent architecture, exploring single-agent task planning and execution.
-`Python` `Jupyter Notebook` `AI Agents`
-
-**[fyp](https://github.com/AadarshaPokharel/fyp)**
-Final year capstone project: It's an IOT based independent vehicle to vehicle communication for blind curves.
-`JavaScript`
-
 ## Technical Skills
 
 **Languages:** TypeScript, Python, JavaScript
-**Frameworks:** React Native, FastAPI, Node.js
+**Frameworks:** React Native, FastAPI, Node.js, Django, 
 **Databases:** PostgreSQL
 **Tools:** Git, Jupyter, Docker
 

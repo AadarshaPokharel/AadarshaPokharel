@@ -15,18 +15,8 @@ Full-Stack Software Engineer with a focus on financial technology and AI-driven 
 **Databases:** PostgreSQL
 **Tools:** Git, Jupyter, Docker
 
-## GitHub Stats
-
-<div align="center">
-
-![Aadarsha's GitHub stats](https://github-readme-stats.vercel.app/api?username=AadarshaPokharel&show_icons=true&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AadarshaPokharel&layout=compact&theme=dark&hide_border=true)
-
-</div>
 
 ## Contact
 
-📍 Nepal · [Email](aadarshapokharel3@gmail.com)
+📍 Nepal · aadarshapokharel3@gmail.com
 
----
-*Open to full-stack and backend engineering opportunities.*
